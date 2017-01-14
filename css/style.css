@@ -18,3 +18,18 @@
   border: 1px solid red;
   background-color: purple;
 }
+.col-md-6{
+  height: 200px;
+  border:1px solid green;
+  background-color: orange;
+}
+.col-md-5{
+  height: 175px;
+  border:1px solid cyan;
+  background-color: #800000;
+}
+.col-md-2{
+  height: 175px;
+  border:1px solid #12edde;
+  background-color: #ea2412;
+}
